@@ -1,0 +1,32 @@
+body {
+  background-color: #303030;
+}
+.heading{
+	font-size:70px;
+	color:#ff6600;
+	text-align: center;
+	font-family: Cursive;
+}
+ .header {
+	 background-color:white;
+     text-align: right;
+     padding-top: 10px;
+ }
+.topnav {
+    overflow: hidden;
+    background-color: white;
+ }
+ .topnav a {
+    float: right;
+    display: block;
+    color:#ff6600;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size:30px;
+	font-family: Sofia, serif;
+			  
+ }
+ .topnav a:hover {
+    background-color: grey;             
+ }
